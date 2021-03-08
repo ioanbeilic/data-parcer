@@ -1,0 +1,574 @@
+[
+    {
+        "id": 1,
+        "name": "61 Bellas Vistas",
+        "code": 61,
+        "position": {
+            "latitude": "40.452092703134",
+            "longitude": "-3.7068777881969",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 2,
+        "name": "62 Cuatro caminos",
+        "code": 62,
+        "position": {
+            "latitude": "40.45287434873",
+            "longitude": "-3.6968490295708",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 3,
+        "name": "63 Castillejos",
+        "code": 63,
+        "position": {
+            "latitude": "40.461048709574",
+            "longitude": "-3.6940572159814",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 4,
+        "name": "64 Almenara",
+        "code": 64,
+        "position": {
+            "latitude": "40.469269184819",
+            "longitude": "-3.6937537000766",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 5,
+        "name": "65 Valdeacederas",
+        "code": 65,
+        "position": {
+            "latitude": "40.466660236457",
+            "longitude": "-3.7030197633592",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 6,
+        "name": "66 Berruguete",
+        "code": 66,
+        "position": {
+            "latitude": "40.459582093017",
+            "longitude": "-3.7046832222949",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 7,
+        "name": "75 Rios Rosas",
+        "code": 75,
+        "position": {
+            "latitude": "40.442418688119",
+            "longitude": "-3.697391874704",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 8,
+        "name": "76 Vallehermoso",
+        "code": 76,
+        "position": {
+            "latitude": "40.443047508537",
+            "longitude": "-3.712229755918",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 9,
+        "name": "84 Pilar",
+        "code": 84,
+        "position": {
+            "latitude": "40.47802565853",
+            "longitude": "-3.7123428521691",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 10,
+        "name": "85 La Paz",
+        "code": 85,
+        "position": {
+            "latitude": "40.481814813296",
+            "longitude": "-3.696446656619",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 11,
+        "name": "93 Ciudad Universitaria",
+        "code": 93,
+        "position": {
+            "latitude": "40.445704274118",
+            "longitude": "-3.7228924925769",
+            "zoom": "14.991052931967"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 12,
+        "name": "290 Taller DEVAS",
+        "code": 290,
+        "position": {
+            "latitude": "40.458160026036",
+            "longitude": "-3.7030234488791",
+            "zoom": "16"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 13,
+        "name": "94 Valdezarza",
+        "code": 94,
+        "position": {
+            "latitude": "40.464506527311",
+            "longitude": "-3.71494584619",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 14,
+        "name": "44 Guindalera",
+        "code": 44,
+        "position": {
+            "latitude": "40.43600288051",
+            "longitude": "-3.665705020786",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 15,
+        "name": "45 Lista",
+        "code": 45,
+        "position": {
+            "latitude": "40.433313216792",
+            "longitude": "-3.6752402113414",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 16,
+        "name": "46 Castellana",
+        "code": 46,
+        "position": {
+            "latitude": "40.432664723593",
+            "longitude": "-3.6839902157464",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 17,
+        "name": "51 El Viso",
+        "code": 51,
+        "position": {
+            "latitude": "40.444867704885",
+            "longitude": "-3.6839836598944",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 18,
+        "name": "52 Prosperidad",
+        "code": 52,
+        "position": {
+            "latitude": "40.444216730922",
+            "longitude": "-3.6685406800204",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 19,
+        "name": "53 Ciudad Jardín",
+        "code": 53,
+        "position": {
+            "latitude": "40.4475192836",
+            "longitude": "-3.6707185429933",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 20,
+        "name": "54 Hispanoamérica",
+        "code": 54,
+        "position": {
+            "latitude": "40.455619144242",
+            "longitude": "-3.6770741876634",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 21,
+        "name": "55 Nueva España",
+        "code": 55,
+        "position": {
+            "latitude": "40.462465817499",
+            "longitude": "-3.6763360890618",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 22,
+        "name": "56 Castilla",
+        "code": 56,
+        "position": {
+            "latitude": "40.475289071335",
+            "longitude": "-3.6781902995103",
+            "zoom": "14.002656066285"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 23,
+        "name": "11 Palacio",
+        "code": 11,
+        "position": {
+            "latitude": "40.414679439713",
+            "longitude": "-3.7174025740143",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 24,
+        "name": "12 Embajadores",
+        "code": 12,
+        "position": {
+            "latitude": "40.410223533354",
+            "longitude": "-3.7024151667027",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 25,
+        "name": "13 Cortes",
+        "code": 13,
+        "position": {
+            "latitude": "40.415073492064",
+            "longitude": "-3.6975451925019",
+            "zoom": "16"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 26,
+        "name": "14 Justicia",
+        "code": 14,
+        "position": {
+            "latitude": "40.423317837099",
+            "longitude": "-3.6968518265893",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 27,
+        "name": "15 Universidad",
+        "code": 15,
+        "position": {
+            "latitude": "40.425276683202",
+            "longitude": "-3.7073098960464",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 28,
+        "name": "16 Sol",
+        "code": 16,
+        "position": {
+            "latitude": "40.417285281096",
+            "longitude": "-3.7035979757892",
+            "zoom": "16"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 29,
+        "name": "21 Imperial",
+        "code": 21,
+        "position": {
+            "latitude": "40.406946125655",
+            "longitude": "-3.7188554217195",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 30,
+        "name": "22 Acacias",
+        "code": 22,
+        "position": {
+            "latitude": "40.401773215165",
+            "longitude": "-3.7075263931462",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 31,
+        "name": "71 Gaztambide",
+        "code": 71,
+        "position": {
+            "latitude": "40.435017066421",
+            "longitude": "-3.7140366142057",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 32,
+        "name": "72 Arapiles",
+        "code": 72,
+        "position": {
+            "latitude": "40.434811521713",
+            "longitude": "-3.7080352990699",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 33,
+        "name": "73 Trafalgar",
+        "code": 73,
+        "position": {
+            "latitude": "40.43347659418",
+            "longitude": "-3.7005172063668",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 34,
+        "name": "74 Almagro",
+        "code": 74,
+        "position": {
+            "latitude": "40.43211925128",
+            "longitude": "-3.6930312638022",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 35,
+        "name": "91 Casa de campo",
+        "code": 91,
+        "position": {
+            "latitude": "40.430197862642",
+            "longitude": "-3.7612452321539",
+            "zoom": "13"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 36,
+        "name": "92 Arguelles",
+        "code": 92,
+        "position": {
+            "latitude": "40.427567146032",
+            "longitude": "-3.7181801743451",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 37,
+        "name": "280 Taller MSM",
+        "code": 280,
+        "position": {
+            "latitude": "40.403749828141",
+            "longitude": "-3.6703937986919",
+            "zoom": "17"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 38,
+        "name": "23 Chopera",
+        "code": 23,
+        "position": {
+            "latitude": "40.3940806653",
+            "longitude": "-3.699918201675",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 39,
+        "name": "24 Legazpi",
+        "code": 24,
+        "position": {
+            "latitude": "40.389234798028",
+            "longitude": "-3.6871044693345",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 40,
+        "name": "25 Delicias",
+        "code": 25,
+        "position": {
+            "latitude": "40.395137930294",
+            "longitude": "-3.6885872441147",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 41,
+        "name": "27 Atocha",
+        "code": 27,
+        "position": {
+            "latitude": "40.40048993912",
+            "longitude": "-3.6836365122531",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 42,
+        "name": "32 Adelfas",
+        "code": 32,
+        "position": {
+            "latitude": "40.400609825643",
+            "longitude": "-3.6713390044431",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 43,
+        "name": "33 Estrella",
+        "code": 33,
+        "position": {
+            "latitude": "40.414020016693",
+            "longitude": "-3.6656370715749",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 44,
+        "name": "270 Taller SUFI-6",
+        "code": 270,
+        "position": {
+            "latitude": "40.393440887409",
+            "longitude": "-3.6891315281079",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 45,
+        "name": "26 Palos de Moguer",
+        "code": 26,
+        "position": {
+            "latitude": "40.403859544716",
+            "longitude": "-3.693602357109",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 46,
+        "name": "31 Pacífico",
+        "code": 31,
+        "position": {
+            "latitude": "40.402191145964",
+            "longitude": "-3.675478331187",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 47,
+        "name": "34 Ibiza",
+        "code": 34,
+        "position": {
+            "latitude": "40.418778140806",
+            "longitude": "-3.6743580244066",
+            "zoom": "16"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 48,
+        "name": "35 Jeronimos",
+        "code": 35,
+        "position": {
+            "latitude": "40.414159762005",
+            "longitude": "-3.6849845555088",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 49,
+        "name": "36 Niño Jesús",
+        "code": 36,
+        "position": {
+            "latitude": "40.412284527789",
+            "longitude": "-3.673261136464",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 50,
+        "name": "41 Recoletos",
+        "code": 41,
+        "position": {
+            "latitude": "40.425209969833",
+            "longitude": "-3.6854970291613",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 51,
+        "name": "42 Goya",
+        "code": 42,
+        "position": {
+            "latitude": "40.425975625235",
+            "longitude": "-3.6739839779565",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    },
+    {
+        "id": 52,
+        "name": "43 Fuente del Berro",
+        "code": 43,
+        "position": {
+            "latitude": "40.424850091882",
+            "longitude": "-3.6628618270034",
+            "zoom": "15"
+        },
+        "parkingmeters": []
+    }
+]
