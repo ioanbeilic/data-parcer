@@ -8,6 +8,7 @@ const files = fs.readdirSync("./csv/");
 const csvPath = "./csv/";
 
 const finalData = [];
+allZone = [];
 
 const convertData = async () => {
   for (const file of files) {
@@ -47,6 +48,8 @@ const convertData = async () => {
     "parkingmeters": []
 */
 
+        createZone(jsonData);
+
         let code = null;
         let index = 1;
         for (let i = 0; i < jsonData.length; i++) {
@@ -75,8 +78,6 @@ const convertData = async () => {
 
         data = Array.from(finalData);
 
-      //  fs.writeFileSync("./final.json", JSON.stringify(data, null, 4));
-
         for (let i = 0; i < jsonData.length; i++) {
           for (let k = 0; k < data.length; k++) {
             if (data[k].code == jsonData[i]["Codigo9"]) {
@@ -103,6 +104,71 @@ const convertData = async () => {
       }
     }
   }
+};
+
+createZone = (jsonData) => {
+  let cities = [];
+  let cityId;
+  for (let i = 0; i < jsonData.length; i++) {
+    if (!cityId || cityId != jsonData[i]["IdCiudad"]) {
+      cityId = jsonData[i]["IdCiudad"];
+      let city = {
+        id: jsonData[i]["IdCiudad"],
+        name: jsonData[i]["Nombre3"],
+        subChild: [],
+      };
+
+      let item = cities.find((item) => item.id === city.id);
+
+      if (!item) {
+        cities.push(city);
+      }
+    }
+  }
+
+  //zone.push(cities);
+
+  for (let j = 0; j < cities.length; j++) {
+    for (let i = 0; i < jsonData.length; i++) {
+      if (cities[j].id === jsonData[i]["IdCiudad"]) {
+        let zone = {
+          id: parseInt("10" + jsonData[i]["IdUsuario"]),
+          name: jsonData[i]["Nombre7"],
+          subChild: [],
+        };
+
+        let item = cities[j].subChild.find((item) => item.id === zone.id);
+        if (!item) {
+          cities[j].subChild.push(zone);
+        }
+      }
+    }
+  }
+
+
+let index = 1
+  for (let j = 0; j < cities.length; j++) {
+    for (let i = 0; i < cities[j].subChild.length; i++) {
+      for (let k = 0; k < jsonData.length; k++) {
+        if (cities[j].subChild[i].name === jsonData[k]["Nombre7"]) {
+          let el = {
+            id: index,
+            name: jsonData[k]["Nombre10"],
+          };
+
+          let item = cities[j].subChild[i].subChild.find(
+            (item) => item.name === el.name
+          );
+          if (!item) {
+            cities[j].subChild[i].subChild.push(el);
+            index++
+          }
+        }
+      }
+    }
+  }
+
+  fs.writeFileSync("./zone.json", JSON.stringify(cities, null, 4));
 };
 
 convertData();

@@ -1,0 +1,442 @@
+[
+    {
+        "id": "1",
+        "name": "Madrid",
+        "subChild": [
+            {
+                "id": 1010,
+                "name": "01 - Devas I",
+                "subChild": [
+                    {
+                        "id": 1,
+                        "name": "61 Bellas Vistas"
+                    },
+                    {
+                        "id": 2,
+                        "name": "62 Cuatro caminos"
+                    },
+                    {
+                        "id": 3,
+                        "name": "63 Castillejos"
+                    },
+                    {
+                        "id": 4,
+                        "name": "64 Almenara"
+                    },
+                    {
+                        "id": 5,
+                        "name": "65 Valdeacederas"
+                    },
+                    {
+                        "id": 6,
+                        "name": "66 Berruguete"
+                    },
+                    {
+                        "id": 7,
+                        "name": "75 Rios Rosas"
+                    },
+                    {
+                        "id": 8,
+                        "name": "76 Vallehermoso"
+                    },
+                    {
+                        "id": 9,
+                        "name": "84 Pilar"
+                    },
+                    {
+                        "id": 10,
+                        "name": "85 La Paz"
+                    },
+                    {
+                        "id": 11,
+                        "name": "93 Ciudad Universitaria"
+                    },
+                    {
+                        "id": 12,
+                        "name": "290 Taller DEVAS"
+                    },
+                    {
+                        "id": 13,
+                        "name": "94 Valdezarza"
+                    }
+                ]
+            },
+            {
+                "id": 1011,
+                "name": "02 - Devas II",
+                "subChild": [
+                    {
+                        "id": 14,
+                        "name": "44 Guindalera"
+                    },
+                    {
+                        "id": 15,
+                        "name": "45 Lista"
+                    },
+                    {
+                        "id": 16,
+                        "name": "46 Castellana"
+                    },
+                    {
+                        "id": 17,
+                        "name": "51 El Viso"
+                    },
+                    {
+                        "id": 18,
+                        "name": "52 Prosperidad"
+                    },
+                    {
+                        "id": 19,
+                        "name": "53 Ciudad Jardín"
+                    },
+                    {
+                        "id": 20,
+                        "name": "54 Hispanoamérica"
+                    },
+                    {
+                        "id": 21,
+                        "name": "55 Nueva España"
+                    },
+                    {
+                        "id": 22,
+                        "name": "56 Castilla"
+                    },
+                    {
+                        "id": 23,
+                        "name": "290 Taller DEVAS"
+                    },
+                    {
+                        "id": 24,
+                        "name": "94 Valdezarza"
+                    }
+                ]
+            },
+            {
+                "id": 1012,
+                "name": "03 - MSM III",
+                "subChild": [
+                    {
+                        "id": 25,
+                        "name": "11 Palacio"
+                    },
+                    {
+                        "id": 26,
+                        "name": "12 Embajadores"
+                    },
+                    {
+                        "id": 27,
+                        "name": "13 Cortes"
+                    },
+                    {
+                        "id": 28,
+                        "name": "14 Justicia"
+                    },
+                    {
+                        "id": 29,
+                        "name": "15 Universidad"
+                    },
+                    {
+                        "id": 30,
+                        "name": "16 Sol"
+                    },
+                    {
+                        "id": 31,
+                        "name": "21 Imperial"
+                    },
+                    {
+                        "id": 32,
+                        "name": "22 Acacias"
+                    },
+                    {
+                        "id": 33,
+                        "name": "71 Gaztambide"
+                    },
+                    {
+                        "id": 34,
+                        "name": "72 Arapiles"
+                    },
+                    {
+                        "id": 35,
+                        "name": "73 Trafalgar"
+                    },
+                    {
+                        "id": 36,
+                        "name": "74 Almagro"
+                    },
+                    {
+                        "id": 37,
+                        "name": "91 Casa de campo"
+                    },
+                    {
+                        "id": 38,
+                        "name": "92 Arguelles"
+                    },
+                    {
+                        "id": 39,
+                        "name": "280 Taller MSM"
+                    },
+                    {
+                        "id": 40,
+                        "name": "54 Hispanoamérica"
+                    }
+                ]
+            },
+            {
+                "id": 1013,
+                "name": "04 - VEA",
+                "subChild": [
+                    {
+                        "id": 41,
+                        "name": "61 Bellas Vistas"
+                    },
+                    {
+                        "id": 42,
+                        "name": "64 Almenara"
+                    },
+                    {
+                        "id": 43,
+                        "name": "65 Valdeacederas"
+                    },
+                    {
+                        "id": 44,
+                        "name": "66 Berruguete"
+                    },
+                    {
+                        "id": 45,
+                        "name": "84 Pilar"
+                    },
+                    {
+                        "id": 46,
+                        "name": "85 La Paz"
+                    },
+                    {
+                        "id": 47,
+                        "name": "91 Casa de campo"
+                    },
+                    {
+                        "id": 48,
+                        "name": "290 Taller DEVAS"
+                    }
+                ]
+            },
+            {
+                "id": 1014,
+                "name": "05 - EYSSA",
+                "subChild": [
+                    {
+                        "id": 49,
+                        "name": "51 El Viso"
+                    },
+                    {
+                        "id": 50,
+                        "name": "52 Prosperidad"
+                    },
+                    {
+                        "id": 51,
+                        "name": "53 Ciudad Jardín"
+                    },
+                    {
+                        "id": 52,
+                        "name": "54 Hispanoamérica"
+                    },
+                    {
+                        "id": 53,
+                        "name": "55 Nueva España"
+                    },
+                    {
+                        "id": 54,
+                        "name": "56 Castilla"
+                    }
+                ]
+            },
+            {
+                "id": 1015,
+                "name": "06 - VALORIZA-HIXIENES",
+                "subChild": [
+                    {
+                        "id": 55,
+                        "name": "21 Imperial"
+                    },
+                    {
+                        "id": 56,
+                        "name": "22 Acacias"
+                    },
+                    {
+                        "id": 57,
+                        "name": "23 Chopera"
+                    },
+                    {
+                        "id": 58,
+                        "name": "24 Legazpi"
+                    },
+                    {
+                        "id": 59,
+                        "name": "25 Delicias"
+                    },
+                    {
+                        "id": 60,
+                        "name": "27 Atocha"
+                    },
+                    {
+                        "id": 61,
+                        "name": "32 Adelfas"
+                    },
+                    {
+                        "id": 62,
+                        "name": "33 Estrella"
+                    },
+                    {
+                        "id": 63,
+                        "name": "280 Taller MSM"
+                    },
+                    {
+                        "id": 64,
+                        "name": "270 Taller SUFI-6"
+                    }
+                ]
+            },
+            {
+                "id": 1016,
+                "name": "07 - MSM IV",
+                "subChild": [
+                    {
+                        "id": 65,
+                        "name": "23 Chopera"
+                    },
+                    {
+                        "id": 66,
+                        "name": "24 Legazpi"
+                    },
+                    {
+                        "id": 67,
+                        "name": "25 Delicias"
+                    },
+                    {
+                        "id": 68,
+                        "name": "26 Palos de Moguer"
+                    },
+                    {
+                        "id": 69,
+                        "name": "27 Atocha"
+                    },
+                    {
+                        "id": 70,
+                        "name": "31 Pacífico"
+                    },
+                    {
+                        "id": 71,
+                        "name": "32 Adelfas"
+                    },
+                    {
+                        "id": 72,
+                        "name": "33 Estrella"
+                    },
+                    {
+                        "id": 73,
+                        "name": "34 Ibiza"
+                    },
+                    {
+                        "id": 74,
+                        "name": "35 Jeronimos"
+                    },
+                    {
+                        "id": 75,
+                        "name": "36 Niño Jesús"
+                    },
+                    {
+                        "id": 76,
+                        "name": "41 Recoletos"
+                    },
+                    {
+                        "id": 77,
+                        "name": "42 Goya"
+                    },
+                    {
+                        "id": 78,
+                        "name": "43 Fuente del Berro"
+                    },
+                    {
+                        "id": 79,
+                        "name": "280 Taller MSM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Madrid",
+        "subChild": [
+            {
+                "id": 1012,
+                "name": "03 - MSM III",
+                "subChild": [
+                    {
+                        "id": 80,
+                        "name": "11 Palacio"
+                    },
+                    {
+                        "id": 81,
+                        "name": "12 Embajadores"
+                    },
+                    {
+                        "id": 82,
+                        "name": "13 Cortes"
+                    },
+                    {
+                        "id": 83,
+                        "name": "14 Justicia"
+                    },
+                    {
+                        "id": 84,
+                        "name": "15 Universidad"
+                    },
+                    {
+                        "id": 85,
+                        "name": "16 Sol"
+                    },
+                    {
+                        "id": 86,
+                        "name": "21 Imperial"
+                    },
+                    {
+                        "id": 87,
+                        "name": "22 Acacias"
+                    },
+                    {
+                        "id": 88,
+                        "name": "71 Gaztambide"
+                    },
+                    {
+                        "id": 89,
+                        "name": "72 Arapiles"
+                    },
+                    {
+                        "id": 90,
+                        "name": "73 Trafalgar"
+                    },
+                    {
+                        "id": 91,
+                        "name": "74 Almagro"
+                    },
+                    {
+                        "id": 92,
+                        "name": "91 Casa de campo"
+                    },
+                    {
+                        "id": 93,
+                        "name": "92 Arguelles"
+                    },
+                    {
+                        "id": 94,
+                        "name": "280 Taller MSM"
+                    },
+                    {
+                        "id": 95,
+                        "name": "54 Hispanoamérica"
+                    }
+                ]
+            }
+        ]
+    }
+]
